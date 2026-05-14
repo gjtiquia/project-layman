@@ -4,6 +4,11 @@
 > _someone who is not trained in or does not have a detailed knowledge of a particular subject_  
 > _synonyms: noob, normie_  
 
+## Table of Contents
+- TODO
+
+---
+
 In "the age of AI", it is so easy for FOMO to settle in when you see people around you just constantly "building things over the weekend", or even "over the afternoon".
 You also hear people claim having "swarms of AI building in their sleep". 
 You don't often know what exactly they are building, but you just know that they are building, and you are feeling FOMO anyways.
