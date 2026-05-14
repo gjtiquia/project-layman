@@ -145,6 +145,19 @@ git
 
 - maxxing out on skills/MCPs/dflahbfjlhasdbfjlkhads?
 
+- your choice is inflenced by what you already know and how it helps u accomplish stuff
+- cursor / claude code might be better as they are closer to the developer spectrum, "low level"
+- codex might be better cuz of a tighter feedback / test / iteration loop
+- try and see what works for u
+- if the first one works well, cool great, dun hv to waste time trying out everything
+- if one doesnt work, do try to stick with it for a bit tho, might hv a learning curve, or to "get" its intended use
+- but if one really doesnt work, try another
+- it may end up that nothing works, well sorry its a skill issue LMAO. jk. but it would be great if (see down)
+- it may end up everything works. the principles work on any tool. great. u made urself no longer reliant on ur tools, but on yourself. woohoo
+- aim for that! u never know whats gonna change these days.
+- who knows, perhaps AI gets obsolete and we need to actually talk to ppl again
+- by then, timeless principles still apply and u still get to build cool shit!
+
 webdev
 
 - at least for now, AI's strength is in web development.
