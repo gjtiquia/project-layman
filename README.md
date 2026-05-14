@@ -20,5 +20,175 @@ Personally, I am all about helping people succeed. I love seeing people build co
 And I want to be a part of that. Hence this project.
 
 Some disclaimers tho. TODO
+- so many people claim this/that is the best
+- ultimately, what works for u, is what works for u
+- and that can change too!
+- let this be a living document
+- "the start of a conversation"
+- and perhaps some sort of "journal" of stuff i learnt along my journey
+
+As much as possible, hopefully the advice here can "last" despite how the world changes every few months, weeks or even days.
+As inexperienced as I am, hopefully there would be nuggets of timeless wisdom that you would discover.
+As such, this project will begin with more "abstract", "higher level" ideas and "principles" first, things that would hopefully last longer than the tools we have at our disposal.
+Only later will we go into lower level "implementation" details, what tools to use and what-not.
+Hope you enjoy the ride!
 
 Contributions are welcome! TODO
+- issues, PRs
+- just pls no AI slop
+- disclose AI usage (see Ghostty)
+- i want it to be as... authentic as possible
+
+---
+
+The concept of personas.
+
+Heard a talk from a game dev mentor, and one of the advice is about wearing different hats. Producer -> Project Manager -> Engineer.
+
+"Personas" might be another overhyped and loaded word these days, but there some truths in it. 
+
+Putting yourself in different shoes, different roles, different perspectives, helps you see things in a more holistic manner.
+
+That's the sort of framework we will be going thru.
+
+CEO -> Knowing what you want. The Vision.
+Producer -> Cost Management. Quality Bar.
+Project Manager -> Breaking down the project into individual tasks. The Orchestrator.
+Engineer -> Problem Solving.
+QA -> Check for bugs. Usability.
+Users -> Feedback.
+
+these roles "evolved" to what they are now for a reason. they seem to work.
+
+and its great cuz, even before the "AI age", there are a lot of resources on these topics.
+
+I mean, AI is only as good as the data it was trained on.
+
+So learning about these are definitely still valuable. Even more so I would argue.
+
+Educate yourself! Read books!
+
+---
+
+WIP
+
+The importance of knowing what you want
+
+---
+
+WIP
+
+the importance of knowing about project management
+
+The reason why AI is such an enabler is that, you don't need to have the engineering skills (at least to some degree) in order to build cool shit.
+
+But even if you have hundreds cracked Waterloo CS grads at your disposal, if you can't manage them well,
+
+---
+
+WIP
+
+engineers
+
+the importance of tests
+
+fully orchestrated overnight vs. going at it one step at a time seeing it generate
+
+---
+
+WIP
+
+users
+
+- "playtesting is king"
+
+could be yourself
+
+aim to get to this stage AS FAST AS POSSIBLE
+
+often times, we get stuck on iterating, or on things that dont matter
+
+great if its just for fun
+
+but if not, see "Producer" role
+
+---
+
+WIP
+
+"timeless" tools
+
+- u may not use them directly anymore in the AI age but, its good to know them
+
+git
+
+"ai" tools
+
+- codex? claude code? cursor?
+- pitfalls?
+
+- maxxing out on skills/MCPs/dflahbfjlhasdbfjlkhads?
+
+webdev
+
+- at least for now, AI's strength is in web development.
+
+---
+
+a concrete example flow
+
+
+CEO
+- what do i want to build
+- can "rubber duck", back-and-forth with AI to sketch out the idea
+- have that written down!
+- aim for high level "anchors"
+
+Producer
+- how much money / time do i have
+- what qualifies as "good enough"
+- when is something "not acceptable"
+- what are the priorities
+
+Project Manager
+- how to break down into tasks
+- "who" is well suited for these tasks
+- what can be done in parallel, what cant (task dependency)
+
+Engineer
+- is scope well defined
+- problem solving tactics
+- tests
+
+QA
+- smoke tests
+- edge cases
+
+Users
+- "playtests"
+- "prove" hypothesis
+- iterate
+
+loop over and over again till u are done
+
+really its all about, doing the same loops as "pre-AI" age, 
+but now discovering different ways AI can "accelerate" the process
+
+sure of course, you would discover different ways of doing things that are not previously possible without AI
+- "throwaway code"
+- "automated playtests"
+- not top-down, not bottom-up, but... "diffusion". eh, sort of top-down arguably.
+- "running things overnight"
+
+but on a higher level... squint your eyes and its "pretty much" the same.
+
+---
+
+ending
+
+hv fun
+be humble
+keep learning
+
+God bless <3
+
