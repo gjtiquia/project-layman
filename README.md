@@ -99,6 +99,17 @@ the importance of tests
 
 fully orchestrated overnight vs. going at it one step at a time seeing it generate
 
+you need to be ok with "giving up"
+
+the so-called saying "implementation is cheap"
+
+take it as an opportunity to know how to build it better next time,
+or even just to flesh out your idea more and get closer and closer to what you want,
+essentially a feedback loop to your CEO role,
+perhaps some initial assumptions are wrong,
+gotta be ok to take the L,
+make the most of it
+
 ---
 
 WIP
