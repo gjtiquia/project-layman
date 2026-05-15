@@ -221,3 +221,15 @@ keep learning
 
 God bless <3
 
+---
+
+random notes
+
+karpathy skills
+- https://github.com/forrestchang/andrej-karpathy-skills
+- https://x.com/Mnilax/status/2053116311132155938
+- mention that... some ppl dun use skills and its fine
+- its more important to know the general idea of "why"
+- you can tell these "skills" tbh are very human! even human engineers can learn from these!
+- and think about where these "skills" come from - experience
+- again the importance of first principles!
