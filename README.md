@@ -247,3 +247,9 @@ the dangers of being in an echo chamber
 - social media / AI tends to be in a silo
 - tho u can still get quite far on your own
 
+while i personally do not use skills, i can see why
+- it fills in knowledge gaps that one does not have
+- i would know how to "steer" an AI to do something "more like how i would do it"
+- stuff like codebase architecture refactoring and making a good foundation
+- skills are useful for things like that
+- but again, its again an extension of learning the first principles
