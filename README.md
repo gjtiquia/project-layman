@@ -263,3 +263,19 @@ interestingly, managers always seem to be busy in meetings with no time to code,
 - things related to taste / direction / vision, thats mostly on you
 - other things that are on you are perhaps specific preferences (tech stack maybe)
 - whats definitely on you is responsibility, you are responsible for what AI writes
+
+on parallel work
+- is always tricky
+- on PM level - task management, task dependency
+- on engineers level - merge conflicts
+- on ai implementation level - worktrees and merging
+- i mean even in programming, concurrency itself is a large topic
+- but we still love it because, if done well, its "infinitely scalable"
+- doable but, dont bite more than u can chew
+- 9 mothers cant make a baby in 1 month
+- tho, with enough mothers u can have a factory of 1 baby per month
+- often times in a "greenfield" or beginning of a project, hard to know how to parallelize work
+- think of it as a senior / founder laying down the foundation, or even still iterating and fleshing out the idea
+- once foundation is good, u would "hire juniors" to "speed things up"
+- same principle applies, just that now u got AI
+- of course u can also use AI to guide u on how things can be parallelized
