@@ -233,3 +233,17 @@ karpathy skills
 - you can tell these "skills" tbh are very human! even human engineers can learn from these!
 - and think about where these "skills" come from - experience
 - again the importance of first principles!
+
+best practices from codex / claude code
+- https://code.claude.com/docs/en/best-practices
+- https://developers.openai.com/codex/learn/best-practices
+
+ralph loop
+- https://ghuntley.com/loop/
+- codex /goal is described as openai's ralph loop
+
+the dangers of being in an echo chamber
+- always expose yourself to people, books, different ideas
+- social media / AI tends to be in a silo
+- tho u can still get quite far on your own
+
