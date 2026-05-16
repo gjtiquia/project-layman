@@ -253,3 +253,13 @@ while i personally do not use skills, i can see why
 - stuff like codebase architecture refactoring and making a good foundation
 - skills are useful for things like that
 - but again, its again an extension of learning the first principles
+
+interestingly, managers always seem to be busy in meetings with no time to code, its relatable
+- you'll find that u spend a lot of time in "meetings" writing plans and documentations, even if the end goal is for AI to be long running later
+- it all depends on how much involvement u want in the end product, and how specific u want things to be
+- naturally, vague requirements = less time = more unpredictability
+- its all up to u to decide in ur workflow, where should AI speed things up
+- some obvious gains tho: research / brainstorm / implementation
+- things related to taste / direction / vision, thats mostly on you
+- other things that are on you are perhaps specific preferences (tech stack maybe)
+- whats definitely on you is responsibility, you are responsible for what AI writes
