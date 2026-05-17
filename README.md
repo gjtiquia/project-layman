@@ -279,3 +279,13 @@ on parallel work
 - once foundation is good, u would "hire juniors" to "speed things up"
 - same principle applies, just that now u got AI
 - of course u can also use AI to guide u on how things can be parallelized
+
+on deployments with agents
+- always kinda scary to let an agent handle deployment...
+- at this stage im still not confident to give an agent full reign on touching production 
+- better than im manually copy pasting commands given by an agent
+- with full documentation too!
+
+on deployment fundamentals
+- of course it helps to know fundamentally how deployment works
+- LLMs could teach u well, just know to ask it, ask it to brief u on the tools it uses, make sure u know what its doing (see "taking responsibility" above)
