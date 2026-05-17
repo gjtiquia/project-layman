@@ -278,6 +278,7 @@ on writing "test cases" / user stories / user journies , having a clear vision
     - yes it depends on ur style tho~
     - if u just want something working, that works
 - but yeah its also often an iterative process, which is also a "timeless" principle! founders always innovate, test, iterate, pivot
+- for engineers, its an opportunity to try to think of the product in the perspective of the UX purely, without being "distracted" by the "engineering difficulty"
 
 on parallel work
 - is always tricky
