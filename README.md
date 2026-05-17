@@ -305,3 +305,27 @@ on deployments with agents
 on deployment fundamentals
 - of course it helps to know fundamentally how deployment works
 - LLMs could teach u well, just know to ask it, ask it to brief u on the tools it uses, make sure u know what its doing (see "taking responsibility" above)
+
+a recurring prompt i find
+- for this subsystem/feature, in light of the big picture/anchor, is the requirements/plan sufficient for handoff to another agent for implementation?
+- typically includes
+    - success criteria
+    - stop criteria
+    - sufficient technical decisions
+    - autonomous plans (testing and verification, TDD)
+    - later manual verification steps
+    - update big picture / anchor
+
+on human limitation
+- a lot of conventions we hv, or workflows, are based on the limitations of humans
+- AIs to some extent share the same limitations, just on a larger scale (eg. limited context)
+- so what works for humans, work well for AIs as well
+    - structure
+    - table of contents
+    - summaries (cache), notes
+    - big picture anchors
+- what breaks down for humans will easily break down as well
+    - docs/information drift, different places and different people hv outdated knowledge
+    - lack of structure
+
+
