@@ -264,6 +264,21 @@ interestingly, managers always seem to be busy in meetings with no time to code,
 - other things that are on you are perhaps specific preferences (tech stack maybe)
 - whats definitely on you is responsibility, you are responsible for what AI writes
 
+on writing "test cases" / user stories / user journies , having a clear vision
+- also slightly related to different roles
+- as AI sort of automated a lot of the engineering work, you will often find yourself being more in a designer role
+- in the "age of AI", u hear this from time to time, "taste matters"
+- and again, its always a question of "what to build"
+- u spend a lot of time writing user flows and user journies, using that as an "anchor" for ur AI to build what u want
+- "timeless" principle still applies, the CEO needs to be super clear about the vision, in order to bring the team to get there
+- and hence, the CEO also needs to be really good at communicating that vision
+- then down to the Project Manager, need to be really clear at translating that vision into requirements
+    - there is some inherent risk in delegating this to AI
+    - sure its doable, but u are willingly giving up some control and creative direction to the AI
+    - yes it depends on ur style tho~
+    - if u just want something working, that works
+- but yeah its also often an iterative process, which is also a "timeless" principle! founders always innovate, test, iterate, pivot
+
 on parallel work
 - is always tricky
 - on PM level - task management, task dependency
