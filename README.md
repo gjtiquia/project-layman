@@ -329,3 +329,10 @@ on human limitation
     - lack of structure
 
 
+dax on ai vibecoding internal tools and deployment
+- https://x.com/i/status/2056141119109443886 
+- one thing to note is people would love infrastructure as code (IAC) that can be reviewed, then even deployment can be run by agenta
+
+dax also has thoughts on vibecoding too, his workflow, and his level on involvement depending on context 
+- https://x.com/i/status/2018048671636390331 
+
