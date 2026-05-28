@@ -336,3 +336,10 @@ dax on ai vibecoding internal tools and deployment
 dax also has thoughts on vibecoding too, his workflow, and his level on involvement depending on context 
 - https://x.com/i/status/2018048671636390331 
 
+https://github.com/obra/superpowers
+- skills as a framework for first brainstorming, then going ahead with sub agent implementation
+- echo-ing the timeless principles above basically
+
+matt pocock skills
+- grill me / improve codebase / TDD
+- again, echo-ing timeless principles
