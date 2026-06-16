@@ -343,3 +343,8 @@ https://github.com/obra/superpowers
 matt pocock skills
 - grill me / improve codebase / TDD
 - again, echo-ing timeless principles
+
+mitchell on (no AI diffs more than 1500 lines)
+- https://x.com/i/status/2066645959539556852
+- he focuses on how to have humans in the loop, especially when making interfaces used by humans
+- if the diff is more than 1500 lines, the task is too big and should be decomposed 
