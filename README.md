@@ -348,3 +348,11 @@ mitchell on (no AI diffs more than 1500 lines)
 - https://x.com/i/status/2066645959539556852
 - he focuses on how to have humans in the loop, especially when making interfaces used by humans
 - if the diff is more than 1500 lines, the task is too big and should be decomposed 
+
+mitchell
+- https://x.com/i/status/2066657032938442833
+- again, great thoughts 
+- things are inherently underspecified
+- ai is bad at designing human interfaces (api calls, cli flags, etc)
+- cant just magically let it run without looking at the code
+- of cuz personally, it depends on the end goal~ but i do believe this is the case for production software 
