@@ -356,3 +356,20 @@ mitchell
 - ai is bad at designing human interfaces (api calls, cli flags, etc)
 - cant just magically let it run without looking at the code
 - of cuz personally, it depends on the end goal~ but i do believe this is the case for production software 
+
+theo on loops
+- https://www.youtube.com/watch?v=iJVJwmCKW9o&t=950s
+- initially skeptical
+- then played with it hard
+- he hates the "roles" and "personas" that people lock subagents into
+- he loves how loops can be "dynamic"
+- interestingly he mentioned agile and waterfall
+    - tho he disagrees with it and says that teams that are the most efficient comes up with their own workflows
+    - mostly backing up his dynamic loop idea
+    - but its kind of a testament to the theme of this guide
+    - that the way "AI"s work is very similar to how we humans work already
+    - its like we are re-discovering fundamental truths that have already existed, just re-applying them to the AI age
+    - kinda how uh, when we model AI as neural networks, we somehow kind-of got to understand more about how we as humans learn things too
+
+
+
