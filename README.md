@@ -370,6 +370,10 @@ theo on loops
     - that the way "AI"s work is very similar to how we humans work already
     - its like we are re-discovering fundamental truths that have already existed, just re-applying them to the AI age
     - kinda how uh, when we model AI as neural networks, we somehow kind-of got to understand more about how we as humans learn things too
+- tips to start making loops
+    - be aware of what u are already doing with several AIs (copy paste stuff, review, merge, dev server and testing, etc)
+    - says if u are looking at agent code when it is first generated, u are wasting time, it should be reviewed between agents and improving, before its in a good state for humans to review
+- do be aware of costs and pricing haha
 
 
 
