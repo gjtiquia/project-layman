@@ -376,4 +376,5 @@ theo on loops
 - do be aware of costs and pricing haha
 
 
-
+https://x.com/i/status/2067936390285807940
+- case in point, AI is bringing back processes that we should hv done well before, things that worked well for humans (docs, openAPI etc)
