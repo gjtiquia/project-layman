@@ -378,3 +378,7 @@ theo on loops
 
 https://x.com/i/status/2067936390285807940
 - case in point, AI is bringing back processes that we should hv done well before, things that worked well for humans (docs, openAPI etc)
+
+https://x.com/i/status/2075515115651084393
+- matt pocock on why he writes skills
+- "my bet is that software practices haven't changed and likely won't change very much"
