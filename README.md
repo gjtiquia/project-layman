@@ -382,3 +382,6 @@ https://x.com/i/status/2067936390285807940
 https://x.com/i/status/2075515115651084393
 - matt pocock on why he writes skills
 - "my bet is that software practices haven't changed and likely won't change very much"
+
+https://x.com/i/status/2077460395279692197
+- "natural extension of stuff engineers have always done"
