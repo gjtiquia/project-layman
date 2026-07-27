@@ -389,6 +389,10 @@ https://x.com/i/status/2077460395279692197
 https://x.com/KentonVarda/status/2080666760584241599?s=20
 - its about being an engineering manager
 - we have been doing this for decades, not reading every line of code other engineers write
+- caveat: https://x.com/i/status/2081328551609971134
+  - they do not have memory (fresh each time)
 
 https://youtube.com/shorts/t34UuBxB2YQ?si=IaHV-VZ2iFKLTAKz
 - reading proper software fundamentals, classics, "Pragmatic Programmer"
+
+
