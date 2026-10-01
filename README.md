@@ -395,4 +395,5 @@ https://x.com/KentonVarda/status/2080666760584241599?s=20
 https://youtube.com/shorts/t34UuBxB2YQ?si=IaHV-VZ2iFKLTAKz
 - reading proper software fundamentals, classics, "Pragmatic Programmer"
 
-
+https://x.com/poteto/status/2069824386283319343
+- poteto literally says the same "treat as new hires with amnesia" "like managing people"
